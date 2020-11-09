@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bdf805f2-5ff8-4360-9090-a98e67769c64" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jW6QcHrJPysZwhwXH3MyruHt9i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="PageObject" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="tests" />
+      <recent name="PageObject" />
+      <recent name="Utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.checkAccountNumberUnderCustomerAfterAddNewAccount">
+    <configuration name="AddCustomerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trell_task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.AddCustomerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddCustomerTest.addNewCustomer (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trell_task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.AddCustomerTest" />
+      <option name="METHOD_NAME" value="addNewCustomer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkAccountNumberUnderCustomerAfterAddNewAccount (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trell_task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.checkAccountNumberUnderCustomerAfterAddNewAccount" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkAccountNumberUnderCustomerAfterAddNewAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trell_task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.checkAccountNumberUnderCustomerAfterAddNewAccount" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkAccountNumberUnderCustomerAfterAddNewAccount.addNewCustomer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="trell_task" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.checkAccountNumberUnderCustomerAfterAddNewAccount" />
+      <option name="METHOD_NAME" value="addNewCustomer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.checkAccountNumberUnderCustomerAfterAddNewAccount" />
+        <item itemvalue="TestNG.AddCustomerTest" />
+        <item itemvalue="TestNG.checkAccountNumberUnderCustomerAfterAddNewAccount (1)" />
+        <item itemvalue="TestNG.checkAccountNumberUnderCustomerAfterAddNewAccount.addNewCustomer" />
+        <item itemvalue="TestNG.AddCustomerTest.addNewCustomer (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdf805f2-5ff8-4360-9090-a98e67769c64" name="Default Changelist" comment="" />
+      <created>1603907485859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603907485859</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="198" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1604067450346">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="458" y="198" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.826@0.23.1440.826" timestamp="1604067450346" />
+    <state x="533" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1604070730260">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="533" y="148" key="#com.intellij.ide.util.MemberChooser/0.23.1440.825@0.23.1440.825" timestamp="1603919059422" />
+    <state x="533" y="148" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826@0.23.1440.826" timestamp="1604070730260" />
+    <state x="432" y="115" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1604048914498">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="432" y="115" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.23.1440.826@0.23.1440.826" timestamp="1604048914498" />
+    <state x="392" y="357" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603912145805">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="392" y="357" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.825@0.23.1440.825" timestamp="1603912145805" />
+    <state x="482" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603917095584">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="482" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.825@0.23.1440.825" timestamp="1603917095584" />
+    <state x="458" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604116958019">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="458" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.826@0.23.1440.826" timestamp="1604116958019" />
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom" timestamp="1604929875085">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1604345030364" />
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1604347039997" />
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1604425508028" />
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1604929875085" />
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1604927576124" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1603923250432" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1604229128737" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1604265964096" />
+    <state width="1398" height="256" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1604229754159" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1604229840825" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1604229984264" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1604230063644" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1603920569419" />
+    <state width="1398" height="206" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1603923925766" />
+    <state width="1398" height="194" key="GridCell.Tab.0.center" timestamp="1604929875083">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1604345030363" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1604347039996" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1604425508026" />
+    <state width="1398" height="194" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1604929875083" />
+    <state width="1398" height="194" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1604927576123" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1603923250432" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1604229128736" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1604265964094" />
+    <state width="1398" height="256" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1604229754157" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1604229840824" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1604229984261" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1604230063639" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1603920569417" />
+    <state width="1398" height="206" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1603923925765" />
+    <state width="1398" height="194" key="GridCell.Tab.0.left" timestamp="1604929875083">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1604345030362" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1604347039996" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1604425508025" />
+    <state width="1398" height="194" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1604929875083" />
+    <state width="1398" height="194" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1604927576123" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1603923250431" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1604229128735" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1604265964091" />
+    <state width="1398" height="256" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1604229754156" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1604229840823" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1604229984260" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1604230063636" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1603920569416" />
+    <state width="1398" height="206" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1603923925763" />
+    <state width="1398" height="194" key="GridCell.Tab.0.right" timestamp="1604929875084">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1604345030363" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1604347039997" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1604425508027" />
+    <state width="1398" height="194" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1604929875084" />
+    <state width="1398" height="194" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1604927576124" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1603923250432" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1604229128737" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1604265964095" />
+    <state width="1398" height="256" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1604229754158" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1604229840825" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1604229984262" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1604230063643" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1603920569418" />
+    <state width="1398" height="206" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1603923925766" />
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom" timestamp="1604929874235">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1604337756071" />
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom/0.23.1440.798@0.23.1440.798" timestamp="1604338124091" />
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom/0.23.1440.801@0.23.1440.801" timestamp="1604348788251" />
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom/0.23.1440.804@0.23.1440.804" timestamp="1604929874235" />
+    <state width="1398" height="253" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1604929683086" />
+    <state width="1398" height="256" key="GridCell.Tab.1.bottom/0.23.1440.828@0.23.1440.828" timestamp="1604229753982" />
+    <state width="1398" height="256" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1604229839764" />
+    <state width="1398" height="253" key="GridCell.Tab.1.center" timestamp="1604929874234">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="253" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1604337756069" />
+    <state width="1398" height="253" key="GridCell.Tab.1.center/0.23.1440.798@0.23.1440.798" timestamp="1604338124089" />
+    <state width="1398" height="253" key="GridCell.Tab.1.center/0.23.1440.801@0.23.1440.801" timestamp="1604348788249" />
+    <state width="1398" height="253" key="GridCell.Tab.1.center/0.23.1440.804@0.23.1440.804" timestamp="1604929874234" />
+    <state width="1398" height="253" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1604929683085" />
+    <state width="1398" height="256" key="GridCell.Tab.1.center/0.23.1440.828@0.23.1440.828" timestamp="1604229753980" />
+    <state width="1398" height="256" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1604229839763" />
+    <state width="1398" height="253" key="GridCell.Tab.1.left" timestamp="1604929874234">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="253" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1604337756067" />
+    <state width="1398" height="253" key="GridCell.Tab.1.left/0.23.1440.798@0.23.1440.798" timestamp="1604338124089" />
+    <state width="1398" height="253" key="GridCell.Tab.1.left/0.23.1440.801@0.23.1440.801" timestamp="1604348788248" />
+    <state width="1398" height="253" key="GridCell.Tab.1.left/0.23.1440.804@0.23.1440.804" timestamp="1604929874234" />
+    <state width="1398" height="253" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1604929683084" />
+    <state width="1398" height="256" key="GridCell.Tab.1.left/0.23.1440.828@0.23.1440.828" timestamp="1604229753979" />
+    <state width="1398" height="256" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1604229839762" />
+    <state width="1398" height="253" key="GridCell.Tab.1.right" timestamp="1604929874235">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="1398" height="253" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1604337756070" />
+    <state width="1398" height="253" key="GridCell.Tab.1.right/0.23.1440.798@0.23.1440.798" timestamp="1604338124090" />
+    <state width="1398" height="253" key="GridCell.Tab.1.right/0.23.1440.801@0.23.1440.801" timestamp="1604348788250" />
+    <state width="1398" height="253" key="GridCell.Tab.1.right/0.23.1440.804@0.23.1440.804" timestamp="1604929874235" />
+    <state width="1398" height="253" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1604929683086" />
+    <state width="1398" height="256" key="GridCell.Tab.1.right/0.23.1440.828@0.23.1440.828" timestamp="1604229753981" />
+    <state width="1398" height="256" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1604229839763" />
+    <state width="508" height="437" key="SwitcherDM" timestamp="1604929915739">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state width="508" height="432" key="SwitcherDM/0.23.1440.797@0.23.1440.797" timestamp="1604338781134" />
+    <state width="508" height="433" key="SwitcherDM/0.23.1440.798@0.23.1440.798" timestamp="1604346965970" />
+    <state width="508" height="435" key="SwitcherDM/0.23.1440.801@0.23.1440.801" timestamp="1604348424502" />
+    <state width="508" height="437" key="SwitcherDM/0.23.1440.804@0.23.1440.804" timestamp="1604929915739" />
+    <state width="508" height="438" key="SwitcherDM/0.23.1440.806@0.23.1440.806" timestamp="1604927496875" />
+    <state width="508" height="445" key="SwitcherDM/0.23.1440.825@0.23.1440.825" timestamp="1603919046451" />
+    <state width="508" height="446" key="SwitcherDM/0.23.1440.826@0.23.1440.826" timestamp="1604224131096" />
+    <state width="508" height="448" key="SwitcherDM/0.23.1440.829@0.23.1440.829" timestamp="1604229822088" />
+    <state width="508" height="450" key="SwitcherDM/0.23.1440.831@0.23.1440.831" timestamp="1604230039992" />
+    <state x="97" y="69" key="new project wizard" timestamp="1604425629804">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="97" y="69" key="new project wizard/0.23.1440.801@0.23.1440.801" timestamp="1604425629804" />
+    <state x="97" y="122" key="new project wizard/0.23.1440.826@0.23.1440.826" timestamp="1604088457656" />
+    <state x="426" y="48" key="refactoring.ChangeSignatureDialog" timestamp="1604086824424">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="426" y="48" key="refactoring.ChangeSignatureDialog/0.23.1440.826@0.23.1440.826" timestamp="1604086824424" />
+    <state x="385" y="172" width="670" height="677" key="search.everywhere.popup" timestamp="1604157185063">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="385" y="172" width="670" height="676" key="search.everywhere.popup/0.23.1440.825@0.23.1440.825" timestamp="1603920698686" />
+    <state x="385" y="172" width="670" height="677" key="search.everywhere.popup/0.23.1440.826@0.23.1440.826" timestamp="1604157185063" />
+  </component>
+</project>
